@@ -1,12 +1,13 @@
-## 彭俊 个人博客
+## 彭俊 Blog
+## 笔记列表
 
-vue笔记[点我跳转](./vue笔记.md)
+vue笔记 => [点我查看](./vue笔记.md)
 
-git常用命令[点我跳转](./git常用命令.md)
+git常用命令 => [点我查看](./git常用命令.md)
 
-layui使用笔记[点我跳转](./layui使用笔记.md)
+layui使用笔记 => [点我查看](./layui使用笔记.md)
 
-JavaScript常用知识点[点我跳转](./JavaScript常用知识点.md)
+JavaScript常用知识点 => [点我查看](./JavaScript常用知识点.md)
 
 <!-- You can use the [editor on GitHub](https://github.com/pengjun0720/pegnjun0720.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
