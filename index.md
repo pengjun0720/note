@@ -55,13 +55,13 @@ Docker容器技术 => [点我查看](./后端/Docker容器技术.md)
 
 
 ### 通用
-计算机网络笔记 => [点我查看](./计算机网络笔记.md)
+计算机网络笔记 => [点我查看](./通用/计算机网络笔记.md)
 
-请教问题和回答问题的技巧 => [点我查看](./请教问题和回答问题的技巧.md)
+请教问题和回答问题的技巧 => [点我查看](./通用/请教问题和回答问题的技巧.md)
 
 
 ### 开发
-git常用命令 => [点我查看](./git常用命令.md)
+git常用命令 => [点我查看](./开发/git常用命令.md)
 
 
 <!-- You can use the [editor on GitHub](https://github.com/pengjun0720/pegnjun0720.github.io/edit/gh-pages/index.md)
